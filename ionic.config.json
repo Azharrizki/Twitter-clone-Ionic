@@ -1,0 +1,10 @@
+{
+  "name": "Twitter-clone-ionic",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
